@@ -1,11 +1,21 @@
-# Getting Started
+# 第一篇文章
 
-Welcome to my blog! This is my first article.
+欢迎来到我的博客！这是第一篇文章。
 
-## Content
+## 为什么写博客
 
-Write your markdown content here.
+1. **巩固知识** - 写作是最好的思考方式
+2. **分享价值** - 帮助他人，也帮助自己
+3. **记录成长** - 回头看时，能看到自己的进步
 
-```js
-console.log('Hello, VitePress!')
-```
+## 内容规划
+
+- 技术文章：前端、后端、工具使用
+- 学习笔记：读书笔记、课程总结
+- 随笔杂谈：生活感悟、行业思考
+
+> "写作是思考的结晶，分享是价值的传递。"
+
+## 开始你的阅读之旅吧！
+
+点击右上角的[文章](/articles/)开始浏览。
