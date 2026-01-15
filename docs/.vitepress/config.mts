@@ -4,8 +4,8 @@ export default defineConfig({
   base: '/myblog/',
   title: 'My Blog',
   description: 'Personal blog -记录学习与成长',
+  srcDir: '.',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#646cff' }]
   ],
   themeConfig: {

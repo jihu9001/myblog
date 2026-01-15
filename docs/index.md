@@ -5,9 +5,6 @@ hero:
   name: "欢迎来到"
   text: "jihu9001 的博客"
   tagline: 记录学习 · 分享思考 · 持续成长
-  image:
-    src: /favicon.ico
-    alt: Blog Logo
   actions:
     - theme: brand
       text: 🚀 开始阅读

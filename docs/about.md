@@ -6,9 +6,6 @@ title: 关于我
 <div class="about-container">
   <div class="profile-section">
     <div class="profile-card">
-      <div class="avatar">
-        <img src="/favicon.ico" alt="jihu9001" />
-      </div>
       <h1>jihu9001</h1>
       <p class="bio">热爱技术的开发者 | 终身学习者</p>
       <div class="social-links">
@@ -126,23 +123,6 @@ title: 关于我
   transform: translateY(-4px);
   box-shadow: var(--card-shadow);
   border-color: var(--vp-c-brand);
-}
-
-.avatar {
-  width: 100px;
-  height: 100px;
-  margin: 0 auto 1.25rem;
-  border-radius: 50%;
-  overflow: hidden;
-  border: 3px solid var(--vp-c-brand);
-  padding: 4px;
-}
-
-.avatar img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 50%;
 }
 
 .profile-card h1 {
