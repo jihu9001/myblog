@@ -4,7 +4,6 @@ export default defineConfig({
   base: '/myblog/',
   title: 'My Blog',
   description: 'Personal blog -记录学习与成长',
-  srcDir: '.',
   head: [
     ['meta', { name: 'theme-color', content: '#646cff' }]
   ],
