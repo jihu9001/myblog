@@ -32,10 +32,6 @@ features:
 
 ---
 
-<script setup>
-import { data as posts } from '../.vitepress/theme/posts.data.js'
-</script>
-
 <div class="home-container">
   <div class="recent-posts">
     <h2>📝 最新文章</h2>
