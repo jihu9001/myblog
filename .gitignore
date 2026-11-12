@@ -1,0 +1,7 @@
+# 依赖与构建产物
+node_modules/
+
+# VitePress 构建输出（由 GitHub Actions 生成并上传为 Pages 制品）
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/.temp/
