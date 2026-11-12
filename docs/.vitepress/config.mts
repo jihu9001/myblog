@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/articles/' },
+      { text: '研报', link: '/reports/' },
       { text: '关于', link: '/about' },
       {
         text: '标签',
@@ -28,6 +29,13 @@ export default defineConfig({
         items: [
           { text: '快速开始', link: '/articles/getting-started' },
           { text: '使用指南', link: '/articles/guide' }
+        ]
+      },
+      {
+        text: '📈 研报归档',
+        items: [
+          { text: '研报总览', link: '/reports/' },
+          { text: '2026-11-12 A股国家队买卖研判', link: '/reports/2026-11-12-A股国家队买卖研判.html' }
         ]
       }
     ],

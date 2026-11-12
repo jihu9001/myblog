@@ -58,12 +58,23 @@ features:
           <span class="read-time">8 分钟阅读</span>
         </div>
       </a>
+      <a href="/reports/" class="post-card">
+        <div class="card-header">
+          <span class="tag tag-report">研报</span>
+          <span class="date">2026-11-12</span>
+        </div>
+        <h3>A股国家队买卖研判</h3>
+        <p>近一周国家队 ETF 买卖行为：连续26个交易日净流入约6,215亿元后，连续两日转为净赎回；含8大宽基标的逐日涨跌与指数—资金背离</p>
+        <div class="card-footer">
+          <span class="read-time">25 分钟阅读 · 13 张图</span>
+        </div>
+      </a>
     </div>
   </div>
 
   <div class="stats-section">
     <div class="stat-card">
-      <div class="stat-number">2</div>
+      <div class="stat-number">3</div>
       <div class="stat-label">篇文章</div>
     </div>
     <div class="stat-card">
@@ -71,7 +82,7 @@ features:
       <div class="stat-label">个分类</div>
     </div>
     <div class="stat-card">
-      <div class="stat-number">~13</div>
+      <div class="stat-number">~38</div>
       <div class="stat-label">分钟阅读</div>
     </div>
   </div>
@@ -162,6 +173,11 @@ features:
 .tag-life {
   background: rgba(236, 72, 153, 0.15);
   color: #ec4899;
+}
+
+.tag-report {
+  background: rgba(111, 168, 255, 0.16);
+  color: #6fa8ff;
 }
 
 .post-card .date {
